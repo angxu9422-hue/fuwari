@@ -2,7 +2,7 @@
 title: 戴疯者SM了
 published: 2026-01-15
 description: ''
-image: 'C:\Users\123\Desktop\fuwari\public\sponsors\0446ff8ca0e7e26d805d5fc2f3aba04d.jpg'
+image: 'C:\Users\123\Desktop\fuwari\public\images\0446ff8ca0e7e26d805d5fc2f3aba04d.jpg'
 tags: []
 category: ''
 draft: false 
