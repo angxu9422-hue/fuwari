@@ -1,6 +1,7 @@
 ---
 title: "0基础安装 OpenClaw 图文教程（Windows 系统）"
 date: 2026-03-10
+published:ture
 tags: [OpenClaw, Windows, 教程]
 ---
 
