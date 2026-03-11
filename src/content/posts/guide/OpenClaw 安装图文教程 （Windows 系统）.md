@@ -1,6 +1,11 @@
 ---
-tags:
-  - clippings
+title: OpenClaw 安装图文教程（Windows）
+published: 2026-03-09
+description: "openclaw安装与使用."
+image: "./openclaw.jpg"
+tags: ["Blogging", "Customization"]
+category: Guides
+draft: false
 ---
 
 **什么是 OpenClaw？** OpenClaw 是一个可自托管的个人 AI 助手。 它可以运行在你自己的电脑上并通过 Telegram 等聊天渠道接收消息 再调用执行、网页、浏览器等能力，帮你完成各种自动化操作 这篇教程适合零基础新手，跟着步骤一步步操作即可完成安装 
